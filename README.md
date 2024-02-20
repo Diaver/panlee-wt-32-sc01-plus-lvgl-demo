@@ -9,7 +9,7 @@ ESP32-S3 with 3.5 Inch 480*320 IPS Touch Screen on 8 bit paraller interface
 
 | Site | Link |
 | ------ | ------ |
-| Aliexpress | https://www.aliexpress.us/item/3256805817506800.html] |
+| Aliexpress | [https://www.aliexpress.us/item/3256805817506800.html](https://www.aliexpress.us/item/3256805817506800.html)] |
 | DigiKey | https://www.digikey.com/en/products/detail/seeed-technology-co-ltd/104990762/17180805 |
 
 ## Features
